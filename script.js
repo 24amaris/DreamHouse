@@ -12,4 +12,12 @@ function draw() {
      //acoperis
         fill("purple");
         triangle(80, 200, 250, 60, 420, 200);
+    //nori
+        fill("blue");
+        stroke("blue");
+        circle(50, 80, 55);
+        circle(100, 80, 55);
+        circle(150, 80, 55);
+        circle(80, 50, 55);
+        circle(130, 50, 55);
 }
