@@ -24,4 +24,22 @@ function draw() {
         fill("gray");
         stroke("black");
         rect(210, 280, 75, 120);
+    //geam acoperis
+        fill("lightblue");
+        ellipse(250, 130, 50, 50);
+    //horn
+        fill("purple");
+        stroke("purple");
+        rect(300, 75 ,40, 70);
+    //linii geam
+        stroke("black");
+        line(250, 105, 250, 155);
+        line(225, 130, 275, 130);
+    //geam
+        fill("lightblue")
+        rect(130, 250 ,50, 70);
+        rect(320, 250 ,50, 70);
+    //maner
+        fill("purple");
+        rect(270, 340 ,10, 5);
 }
