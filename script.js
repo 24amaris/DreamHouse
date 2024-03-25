@@ -20,4 +20,8 @@ function draw() {
         circle(150, 80, 55);
         circle(80, 50, 55);
         circle(130, 50, 55);
+    //usa
+        fill("gray");
+        stroke("black");
+        rect(210, 280, 75, 120);
 }
